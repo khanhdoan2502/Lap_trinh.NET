@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Nhập dữ liệu
         Console.Write("Nhap so thu nhat (a): ");
         double a = double.Parse(Console.ReadLine());
 
@@ -14,7 +13,6 @@ class Program
         Console.Write("Nhap phep toan (+, -, *, /, %): ");
         char op = Console.ReadLine()[0];
 
-        // Áp dụng switch expression kết hợp pattern matching
         string result = (op, b) switch
         {
             ('+', _) => $"{a + b:F2}",
@@ -27,7 +25,6 @@ class Program
             _ => "Loi: Phep toan khong hop le!"
         };
 
-        // In kết quả
         Console.WriteLine($"Ket qua: {result}");
     }
 }
