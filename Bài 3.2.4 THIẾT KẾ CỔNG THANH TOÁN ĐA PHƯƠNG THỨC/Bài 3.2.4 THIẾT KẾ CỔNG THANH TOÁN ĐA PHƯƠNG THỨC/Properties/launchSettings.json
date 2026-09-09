@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bài 3.2.4 THIẾT KẾ CỔNG THANH TOÁN ĐA PHƯƠNG THỨC": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
