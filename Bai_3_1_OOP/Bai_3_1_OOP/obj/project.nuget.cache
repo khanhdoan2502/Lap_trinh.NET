@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HGcrc83vFk=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\C#\\Bai_3_1_OOP\\Bai_3_1_OOP\\Bai_3_1_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
