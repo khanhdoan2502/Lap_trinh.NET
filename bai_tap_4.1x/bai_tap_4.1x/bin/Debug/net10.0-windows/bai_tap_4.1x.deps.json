@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "bai_tap_4.1x/1.0.0": {
+        "runtime": {
+          "bai_tap_4.1x.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai_tap_4.1x/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
